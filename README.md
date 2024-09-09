@@ -36,4 +36,37 @@ https://github.com/user-attachments/assets/510cea5b-107a-46dc-89e8-6455661cb0f3
 1. Clone the repository:
    ```bash
    https://github.com/syedmustafan/task-management-react-native.git
-   cd task-management-app
+2. Install dependencies:
+   ```bash
+   npm install
+3. Run the project:
+   ```bash
+   npm run start
+   ```
+4. When prompted, press a to launch the app in an Android emulator.
+
+🛠 Technologies Used
+React Native for building the cross-platform mobile application.
+Expo for easy development, debugging, and running on emulators.
+DateTimePicker from @react-native-community/datetimepicker for date and time selection.
+React Native Modal for creating and editing tasks within modals.
+
+
+Future Improvements
+Add the ability to categorize tasks.
+Integration with a backend to persist tasks across sessions.
+Add push notifications to remind users of upcoming tasks.
+Enhance UI with animations for better task interactions.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Feel free to contribute to this project by submitting issues or pull requests!
+
+
+### Notes:
+- Make sure to replace the placeholders with your actual **GitHub repository URL**, **video link**, and **APK link** when they are available.
+- You can also add a `LICENSE` file if your project is open-source.
+
+This is a clean, professional `README.md` file that provides all the necessary details for users to understand and run your project.
+
+
