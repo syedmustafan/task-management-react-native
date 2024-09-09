@@ -1,5 +1,11 @@
 # Task Management App
 
+## 📹 Demo Video
+
+https://github.com/user-attachments/assets/510cea5b-107a-46dc-89e8-6455661cb0f3
+
+---
+
 This is a **React Native Task Management App** that allows users to add, edit, delete, and mark tasks as accomplished. The app is designed with user-friendly UI components and includes features such as date and time picking for task scheduling. It is fully compatible with Android and includes functionality to run on an emulator.
 
 ## Features
@@ -22,12 +28,6 @@ This is a **React Native Task Management App** that allows users to add, edit, d
 - **Pressable**: Allows for touch interactions on tasks, such as long presses to edit or delete.
 - **Alert**: Used for displaying edit and delete confirmation dialogues.
 - **Platform API**: Handles different behavior between iOS and Android for certain actions like date/time picking.
-
----
-
-## 📹 Demo Video
-
-https://github.com/user-attachments/assets/510cea5b-107a-46dc-89e8-6455661cb0f3
 
 ---
 
