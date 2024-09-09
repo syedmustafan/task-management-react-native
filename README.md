@@ -23,15 +23,11 @@ This is a **React Native Task Management App** that allows users to add, edit, d
 - **Alert**: Used for displaying edit and delete confirmation dialogues.
 - **Platform API**: Handles different behavior between iOS and Android for certain actions like date/time picking.
 
-## Screenshots
-
-*(Add screenshots of your app in use here)*
-
 ---
 
 ## 📹 Demo Video
 
-*(Link to the video will be added here once uploaded)*
+https://github.com/user-attachments/assets/510cea5b-107a-46dc-89e8-6455661cb0f3
 
 ---
 
