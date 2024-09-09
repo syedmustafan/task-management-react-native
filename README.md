@@ -46,21 +46,25 @@ https://github.com/user-attachments/assets/510cea5b-107a-46dc-89e8-6455661cb0f3
 4. When prompted, press a to launch the app in an Android emulator.
 
 🛠 Technologies Used
-React Native for building the cross-platform mobile application.
-Expo for easy development, debugging, and running on emulators.
-DateTimePicker from @react-native-community/datetimepicker for date and time selection.
-React Native Modal for creating and editing tasks within modals.
+
+- React Native for building the cross-platform mobile application.
+- Expo for easy development, debugging, and running on emulators.
+- DateTimePicker from @react-native-community/datetimepicker for date and time selection.
+- React Native Modal for creating and editing tasks within modals.
 
 
 Future Improvements
-Add the ability to categorize tasks.
-Integration with a backend to persist tasks across sessions.
-Add push notifications to remind users of upcoming tasks.
-Enhance UI with animations for better task interactions.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Feel free to contribute to this project by submitting issues or pull requests!
+- Add the ability to categorize tasks.
+- Integration with a backend to persist tasks across sessions.
+- Add push notifications to remind users of upcoming tasks.
+- Enhance UI with animations for better task interactions.
+
+## License
+
+- This project is licensed under the MIT License - see the LICENSE file for details.
+
+- Feel free to contribute to this project by submitting issues or pull requests!
 
 
 ### Notes:
